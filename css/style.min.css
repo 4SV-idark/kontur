@@ -1753,10 +1753,13 @@
     position: static;
   }
   .cons__item__subtitle__7 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
     text-align: left;
     position: absolute;
-    left: 10%;
-    margin: 5px 40px 0 78px;
+    left: 12%;
+    margin: 10px 21% 0 29%;
   }
   .cons__down {
     margin: 0;
