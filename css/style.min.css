@@ -1501,110 +1501,75 @@
     left: 82%;
   }
   .learn__conteiner {
-    display: none;
-  }
-  .learn__mobile {
-    display: block;
-  }
-  .learn__mobile__conteiner {
     background: url("../img/bg/bg-mobile.png") center center/cover no-repeat;
-    border-radius: 48px;
   }
-  .learn__mobile__wrapper {
-    padding: 60px 0 0 0;
-    min-height: 700px;
+  .learn__wrapper {
+    padding: 22px 3px 0 3px;
   }
-  .learn__mobile__left {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+  .learn__wrapper-2 {
+    padding: 52px 3px 0 3px;
   }
-  .learn__mobile__title {
-    font-weight: 500;
+  .learn__left-mobile-2 {
+    margin: 43px 0 0 0;
+  }
+  .learn__left-mobile-3 {
+    margin: 43px 0 0 0;
+  }
+  .learn__title {
     font-size: 24px;
     line-height: 100%;
     text-align: center;
-    color: #22253b;
   }
-  .learn__mobile__title span {
-    font-weight: 900;
+  .learn__title span {
+    display: none;
   }
-  .learn__mobile__line {
+  .learn__title__br {
+    display: block;
+  }
+  .learn__line {
     width: 280px;
     margin: 16px 0 16px 0;
   }
-  .learn__mobile__mobile-subtitle {
+  .learn__subtitle-mobile-1 {
+    display: none;
+  }
+  .learn__mobile-subtitle {
     margin: 0 0 24px 0;
     display: block;
-    font-weight: 400;
     font-size: 12px;
     line-height: 150%;
     text-align: center;
-    color: #22253b;
   }
-  .learn__mobile__callback {
-    margin: 0 0 31px 0;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-line-pack: center;
-        align-content: center;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    cursor: pointer;
-    position: relative;
-    border-radius: 82px;
-    width: 265px;
-    background-color: #f15525;
-    padding: 25.5px;
-    -webkit-transition: all 0.3s ease-out;
-    transition: all 0.3s ease-out;
-  }
-  .learn__mobile__callback:hover {
-    background-color: #38BFF2;
-  }
-  .learn__mobile__callback__text {
-    margin: 0 20px 0 0;
-    font-family: "Gilroy", sans-serif;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 97%;
-    letter-spacing: -0.03em;
+  .learn__subtitle-mobile-2 {
+    margin: 0 0 24px 0;
+    display: block;
+    font-size: 12px;
+    line-height: 150%;
     text-align: center;
-    color: #fff;
   }
-  .learn__mobile__callback__text::before {
-    content: "";
-    position: absolute;
-    top: 40%;
-    left: 80%;
-    width: 16px;
-    height: 16px;
-    background: url("../icons/Arrow 1.png") center center/cover no-repeat;
-  }
-  .learn__mobile__right {
+  .learn__right {
     position: relative;
   }
-  .learn__mobile__right__img {
+  .learn__right__img-1 {
     position: absolute;
     width: 210px;
     height: 220px;
-    top: 60px;
-    left: 45px;
+    top: 171px;
+    left: 43px;
+  }
+  .learn__right__img-2 {
+    position: absolute;
+    width: 210px;
+    height: 220px;
+    top: 130px;
+    left: 60px;
+  }
+  .learn__right__img-3 {
+    position: absolute;
+    width: 210px;
+    height: 220px;
+    top: 150px;
+    left: 50px;
   }
   .learn__modal__content {
     padding: 40px 53px;
@@ -1894,110 +1859,75 @@
     left: 82%;
   }
   .learn__conteiner {
-    display: none;
-  }
-  .learn__mobile {
-    display: block;
-  }
-  .learn__mobile__conteiner {
     background: url("../img/bg/bg-mobile.png") center center/cover no-repeat;
-    border-radius: 48px;
   }
-  .learn__mobile__wrapper {
-    padding: 60px 0 0 0;
-    min-height: 700px;
+  .learn__wrapper {
+    padding: 22px 3px 0 3px;
   }
-  .learn__mobile__left {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+  .learn__wrapper-2 {
+    padding: 52px 3px 0 3px;
   }
-  .learn__mobile__title {
-    font-weight: 500;
+  .learn__left-mobile-2 {
+    margin: 43px 0 0 0;
+  }
+  .learn__left-mobile-3 {
+    margin: 43px 0 0 0;
+  }
+  .learn__title {
     font-size: 24px;
     line-height: 100%;
     text-align: center;
-    color: #22253b;
   }
-  .learn__mobile__title span {
-    font-weight: 900;
+  .learn__title span {
+    display: none;
   }
-  .learn__mobile__line {
+  .learn__title__br {
+    display: block;
+  }
+  .learn__line {
     width: 280px;
     margin: 16px 0 16px 0;
   }
-  .learn__mobile__mobile-subtitle {
+  .learn__subtitle-mobile-1 {
+    display: none;
+  }
+  .learn__mobile-subtitle {
     margin: 0 0 24px 0;
     display: block;
-    font-weight: 400;
     font-size: 12px;
     line-height: 150%;
     text-align: center;
-    color: #22253b;
   }
-  .learn__mobile__callback {
-    margin: 0 0 31px 0;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-line-pack: center;
-        align-content: center;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    cursor: pointer;
-    position: relative;
-    border-radius: 82px;
-    width: 265px;
-    background-color: #f15525;
-    padding: 25.5px;
-    -webkit-transition: all 0.3s ease-out;
-    transition: all 0.3s ease-out;
-  }
-  .learn__mobile__callback:hover {
-    background-color: #38BFF2;
-  }
-  .learn__mobile__callback__text {
-    margin: 0 20px 0 0;
-    font-family: "Gilroy", sans-serif;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 97%;
-    letter-spacing: -0.03em;
+  .learn__subtitle-mobile-2 {
+    margin: 0 0 24px 0;
+    display: block;
+    font-size: 12px;
+    line-height: 150%;
     text-align: center;
-    color: #fff;
   }
-  .learn__mobile__callback__text::before {
-    content: "";
-    position: absolute;
-    top: 40%;
-    left: 80%;
-    width: 16px;
-    height: 16px;
-    background: url("../icons/Arrow 1.png") center center/cover no-repeat;
-  }
-  .learn__mobile__right {
+  .learn__right {
     position: relative;
   }
-  .learn__mobile__right__img {
+  .learn__right__img-1 {
     position: absolute;
     width: 210px;
     height: 220px;
-    top: 60px;
-    left: 45px;
+    top: 171px;
+    left: 43px;
+  }
+  .learn__right__img-2 {
+    position: absolute;
+    width: 210px;
+    height: 220px;
+    top: 130px;
+    left: 60px;
+  }
+  .learn__right__img-3 {
+    position: absolute;
+    width: 210px;
+    height: 220px;
+    top: 150px;
+    left: 50px;
   }
   .learn__modal__content {
     padding: 40px 10px;

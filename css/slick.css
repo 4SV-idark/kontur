@@ -184,3 +184,42 @@
     }
 }
 
+@media (max-width: 520px) {
+    
+    .slider-btn:hover {
+        color: #ffffff00;
+        background-color: #ffffff00;
+    }
+
+    .slider-btn i {
+        display: none;
+    }
+
+    .slick-arrow {
+        display: none;
+    }
+
+    .slider-btn {
+        z-index: -20;
+    }
+}
+
+@media (max-width: 320px) {
+    
+    .slider-btn:hover {
+        color: #ffffff00;
+        background-color: #ffffff00;
+    }
+
+    .slider-btn i {
+        display: none;
+    }
+
+    .slick-arrow {
+        display: none;
+    }
+
+    .slider-btn {
+        z-index: -20;
+    }
+}

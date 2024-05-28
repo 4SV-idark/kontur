@@ -49,7 +49,6 @@ var modal = document.getElementById("mymodal");
 var btn = document.getElementById("mybtn");
 var btn2 = document.getElementById("mybtn-2");
 var btn3 = document.getElementById("mybtn-3");
-var btnmobile = document.getElementById("mybtn-mobile");
 
 
 // Get the <span> element that closes the modal
@@ -74,13 +73,6 @@ btn3.onclick = function() {
     modal.style.display = "block";
     document.body.style.overflow = "hidden"; // ADD THIS LINE
     document.body.style.height = "100%"; // ADD THIS LINE
-}
-
-// When the user clicks on the button, open the modal
-btnmobile.onclick = function() {
-  modal.style.display = "block";
-  document.body.style.overflow = "hidden"; // ADD THIS LINE
-  document.body.style.height = "100%"; // ADD THIS LINE
 }
 
 
